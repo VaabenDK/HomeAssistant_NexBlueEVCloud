@@ -1,0 +1,10 @@
+{
+  "name": "Nexblue EV Charger Integration",
+  "domain": "nexblue",
+  "homeassistant": "2023.8.0",
+  "country": "BE",
+  "codeowners": ["@your-github-handle"],
+  "version": "1.0.0",
+  "documentation": "https://github.com/your-user/nexblue-homeassistant",
+  "issue_tracker": "https://github.com/your-user/nexblue-homeassistant/issues"
+}

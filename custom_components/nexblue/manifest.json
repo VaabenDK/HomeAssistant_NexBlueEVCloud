@@ -1,0 +1,12 @@
+{
+  "domain": "nexblue",
+  "name": "Nexblue EV Charger",
+  "version": "1.0.0",
+  "documentation": "https://github.com/your-user/nexblue-homeassistant",
+  "issue_tracker": "https://github.com/your-user/nexblue-homeassistant/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@your-github-handle"],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}

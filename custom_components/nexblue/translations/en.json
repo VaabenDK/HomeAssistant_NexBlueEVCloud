@@ -1,0 +1,16 @@
+{
+  "title": "Nexblue EV Charger",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Nexblue",
+        "description": "Enter your Nexblue credentials",
+        "data": {
+          "email": "Email",
+          "password": "Password",
+          "scan_interval": "Polling interval (seconds)"
+        }
+      }
+    }
+  }
+}
