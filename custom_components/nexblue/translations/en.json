@@ -8,6 +8,30 @@
         "data": {
           "email": "Email",
           "password": "Password",
+          "account_type": "Account type"
+        }
+      },
+      "reauth_confirm": {
+        "title": "Reauthenticate Nexblue",
+        "description": "Your Nexblue credentials are no longer valid. Please update them.",
+        "data": {
+          "email": "Email",
+          "password": "Password",
+          "account_type": "Account type"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to Nexblue. Please try again.",
+      "invalid_auth": "Invalid email, password, or account type.",
+      "unknown": "Unexpected error"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Nexblue Options",
+        "data": {
           "scan_interval": "Polling interval (seconds)"
         }
       }
